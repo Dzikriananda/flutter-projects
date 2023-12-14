@@ -1,5 +1,5 @@
-# flutter-projects
+# flutter-dicoding-submisi
 
-Kumpulan project dari flutter saya
+Kumpulan project submisi dicoding flutter
 1. restaurant app
-2. E-report (Todo)
+
